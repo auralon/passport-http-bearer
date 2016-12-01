@@ -1,9 +1,8 @@
 # passport-http-bearer-base64
 
-[![Build](https://travis-ci.org/jaredhanson/passport-http-bearer.png)](http://travis-ci.org/jaredhanson/passport-http-bearer-base64)
-[![Coverage](https://coveralls.io/repos/jaredhanson/passport-http-bearer/badge.png)](https://coveralls.io/r/jaredhanson/passport-http-bearer-base64)
-[![Dependencies](https://david-dm.org/jaredhanson/passport-http-bearer.png)](http://david-dm.org/jaredhanson/passport-http-bearer-base64)
-
+[![Build](https://travis-ci.org/auralon/passport-http-bearer-base64.png)](http://travis-ci.org/auralon/passport-http-bearer-base64)
+[![Coverage](https://coveralls.io/repos/github/auralon/passport-http-bearer-base64/badge.svg?branch=master)](https://coveralls.io/github/auralon/passport-http-bearer-base64?branch=master)
+[![Dependencies](https://david-dm.org/auralon/passport-http-bearer-base64.png)](http://david-dm.org/auralon/passport-http-bearer-base64)
 
 HTTP Bearer authentication strategy for [Passport](http://passportjs.org/).
 

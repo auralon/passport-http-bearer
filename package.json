@@ -23,11 +23,7 @@
   "bugs": {
     "url": "https://github.com/auralon/passport-http-bearer-base64/issues"
   },
-  "author": {
-    "name": "Keith Hill",
-    "email": "keith@bluemantis.com",
-    "url": "https://www.bluemantis.com/"
-  },
+  "author": "Keith Hill <keith@bluemantis.com> (https://www.bluemantis.com/)",
   "licenses": [
     {
       "type": "MIT",
@@ -47,16 +43,21 @@
     "node": ">= 0.4.0"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+    "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js"
   },
   "testling": {
     "browsers": [
       "chrome/latest"
     ],
-    "harness" : "mocha",
+    "harness": "mocha",
     "files": [
       "test/bootstrap/testling.js",
       "test/*.test.js"
     ]
-  }
+  },
+  "homepage": "https://github.com/auralon/passport-http-bearer-base64",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT"
 }
