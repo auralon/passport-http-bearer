@@ -1,7 +1,7 @@
 {
-  "name": "passport-http-bearer",
-  "version": "1.0.1",
-  "description": "HTTP Bearer authentication strategy for Passport.",
+  "name": "passport-http-bearer-base64",
+  "version": "1.0.2",
+  "description": "HTTP Bearer authentication strategy, with optional base64 encoded token support, for Passport.",
   "keywords": [
     "passport",
     "auth",
@@ -12,19 +12,21 @@
     "http",
     "bearer",
     "token",
-    "oauth"
+    "oauth",
+    "base64",
+    "encoded"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-http-bearer.git"
+    "url": "git://github.com/auralon/passport-http-bearer-base64.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-http-bearer/issues"
+    "url": "https://github.com/auralon/passport-http-bearer-base64/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Keith Hill",
+    "email": "keith@bluemantis.com",
+    "url": "https://www.bluemantis.com/"
   },
   "licenses": [
     {

@@ -101,10 +101,12 @@ For a complete, working example, refer to the [Bearer example](https://github.co
 
 ## Credits
 
-  - [Jared Hanson](http://github.com/jaredhanson)
+  - [Jared Hanson](https://github.com/jaredhanson)
+  - [Keith Hill](https://github.com/auralon)
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+Copyright (c) 2016 Keith Hill <[https://bluemantis.com/](https://bluemantis.com/)>
