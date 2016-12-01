@@ -1,8 +1,8 @@
 # passport-http-bearer-base64
 
-[![Build](https://travis-ci.org/jaredhanson/passport-http-bearer.png)](http://travis-ci.org/jaredhanson/passport-http-bearer)
-[![Coverage](https://coveralls.io/repos/jaredhanson/passport-http-bearer/badge.png)](https://coveralls.io/r/jaredhanson/passport-http-bearer)
-[![Dependencies](https://david-dm.org/jaredhanson/passport-http-bearer.png)](http://david-dm.org/jaredhanson/passport-http-bearer)
+[![Build](https://travis-ci.org/jaredhanson/passport-http-bearer.png)](http://travis-ci.org/jaredhanson/passport-http-bearer-base64)
+[![Coverage](https://coveralls.io/repos/jaredhanson/passport-http-bearer/badge.png)](https://coveralls.io/r/jaredhanson/passport-http-bearer-base64)
+[![Dependencies](https://david-dm.org/jaredhanson/passport-http-bearer.png)](http://david-dm.org/jaredhanson/passport-http-bearer-base64)
 
 
 HTTP Bearer authentication strategy for [Passport](http://passportjs.org/).
@@ -19,7 +19,7 @@ integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-http-bearer
+    $ npm install passport-http-bearer-base64
 
 ## Usage
 
@@ -88,7 +88,9 @@ issued, this module can be used to authenticate tokens as described above.
 
 ## Examples
 
-For a complete, working example, refer to the [Bearer example](https://github.com/passport/express-4.x-http-bearer-example).
+For a complete, working example, refer to the [Bearer example](https://github.com/passport/express-4.x-http-bearer-example) 
+[Note: This example is for the bearer token module that this project is forked from.  This module is identical apart from 
+the inclusion of base64 encoded token support, so the example is still relevant].
 
 ## Related Modules
 
