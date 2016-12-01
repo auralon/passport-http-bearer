@@ -1,6 +1,6 @@
 {
   "name": "passport-http-bearer-base64",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP Bearer authentication strategy, with optional base64 encoded token support, for Passport.",
   "keywords": [
     "passport",
